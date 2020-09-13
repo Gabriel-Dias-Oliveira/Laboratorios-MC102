@@ -7,7 +7,7 @@ Juntamente aos enunciados existem os 15 algoritmos soluções (autorais) dos pro
 ## COMO UTILIZAR
 
 * Execute os códigos através de um programa como VS Code ou PyCharm.
-* Execute os códigos através do terminal pelo código: `python lab.py`.
+* Execute os códigos através do terminal pelo código: `python lab.py.`
   * **[lab]** - Número do laboratório em questão.
 
 ## OBSERVAÇÕES
