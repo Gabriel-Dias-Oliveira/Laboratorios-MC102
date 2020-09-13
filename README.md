@@ -2,7 +2,7 @@
 
 O repositório contém 15 enunciados de problemas propostos na disciplina de 
 Algoritmos e Programação de Computadores (MC102) - UNICAMP.   
-Juntamente aos enunciados existem os 15 algoritmos soluções dos problemas (autorais).
+Juntamente aos enunciados existem os 15 algoritmos soluções (autorais) dos problemas.
 
 ## COMO UTILIZAR
 
