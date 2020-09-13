@@ -1,0 +1,4 @@
+Jogada: QC QO QP
+Nenhum bot duvidou
+Mão: AC AE AP 2O 3P 4E 4O 5C 5P 6C 6O 7C 7O 8E 8P 9O 10E 10P JC JP KO
+Pilha: JO 9P 7P 9E KP 5E 10C 7E 2C 10O QC QO QP

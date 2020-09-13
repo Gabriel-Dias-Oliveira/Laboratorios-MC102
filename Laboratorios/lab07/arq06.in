@@ -1,0 +1,35 @@
+Aquiles
+500
+100
+5
+100
+Heitor
+500
+50
+10
+80
+H 2
+M I 20 3 150
+I
+A
+H 1
+M X   
+A
+H 2
+M X
+A
+H 1
+M C 30 200
+A
+H 2
+M X
+A
+H 1
+M F 30 100
+A
+H 2
+M X
+A
+H 1
+M X
+A

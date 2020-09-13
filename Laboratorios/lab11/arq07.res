@@ -1,0 +1,1 @@
+Longevidade fora do intervalo

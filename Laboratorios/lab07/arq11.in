@@ -1,0 +1,43 @@
+QueixoRubro
+100
+50
+0
+850
+QueixoCinza
+250
+20
+15
+600
+H 2
+M X
+A
+H 1
+M X
+I
+A
+H 2
+M P 99 5
+A
+H 1
+M X
+A
+H 2
+M X
+I
+A
+H 1
+M X
+A
+H 2
+M D 95
+A
+H 1
+M S 102 5
+S
+A
+H 2
+M D 10
+A
+H 1
+M F 16 215
+A

@@ -1,0 +1,4 @@
+Jogada: KC KE KO KP
+Nenhum bot duvidou
+Mão: AO AP 2E 2O 3E 3O 4C 4E 4P 5E 5P 6E 6O 7C 7E 7O 7P 8O 9C 9P 10P JE JP QP
+Pilha: JC 5C 3P 10C 10E AC 8E KC KE KO KP

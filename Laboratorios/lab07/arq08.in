@@ -1,0 +1,58 @@
+CapitaoAmerica
+600
+50
+50
+300
+HomemDeFerro
+300
+50
+15
+500
+H 1
+M X
+I
+A
+H 2
+M S 20 2
+S
+A
+H 1
+M I 30 4 100
+I
+A
+H 2
+M S 30 5
+S
+A
+H 1
+M X
+A
+H 2
+M X
+A
+H 1
+M X
+A
+H 2
+M S 50 5
+S
+A
+H 1
+M E 50
+A
+H 2
+M I 200 3 400
+I
+A
+H 1
+M C 20 40
+A
+H 2
+M X
+A
+H 1
+M C 300 500
+A
+H 2
+M X
+A

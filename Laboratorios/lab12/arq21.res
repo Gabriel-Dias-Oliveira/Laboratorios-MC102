@@ -1,0 +1,4 @@
+Jogada: 3P
+Nenhum bot duvidou
+Mão: AC AE AP 2C 2P 4E 4P 5C 5P 6E 6O 7C 7O 7P 8E 8O 8P 9C 9E 10C 10E JC JE QC KO KP
+Pilha: 10O 2O 4O QE 2E 4C 3P

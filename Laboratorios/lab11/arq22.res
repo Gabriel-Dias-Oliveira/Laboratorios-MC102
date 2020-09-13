@@ -1,0 +1,1 @@
+Desigualdade fora do intervalo

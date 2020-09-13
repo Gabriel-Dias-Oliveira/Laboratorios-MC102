@@ -1,0 +1,1 @@
+Educação fora do intervalo

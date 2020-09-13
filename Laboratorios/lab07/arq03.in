@@ -1,0 +1,33 @@
+Sortudo
+300
+30
+10
+100
+Azarado
+300
+30
+10
+100
+H 2
+M F 150 100
+A
+H 1
+M D 50
+A
+H 2
+M X
+S
+A
+H 1
+M I 5 2 250
+A
+H 2
+M S 10 10
+S
+A
+H 1
+M X
+I
+A
+
+
